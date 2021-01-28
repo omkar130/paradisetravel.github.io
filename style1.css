@@ -1,0 +1,40 @@
+.we{
+    background-color:#FA6F61;
+    height:100vh;
+    padding-left:14rem;
+    padding-top:2rem;
+}
+
+h2{
+    color:#fff;
+    font-size:5rem;
+    margin-left:3rem;
+
+}
+
+.b{
+    padding:1rem 1rem;
+    color:#fff;
+    background-color:#000;
+    font-size: 1.8rem;
+    margin-left:13rem;
+}
+
+@media screen and (max-width:899px){
+ 
+    h2{
+        color:#fff;
+        font-size:3rem;
+        margin-left:-2rem;
+    
+    }
+    
+    .b{
+        padding:.5rem .5rem;
+        color:#fff;
+        background-color:#000;
+        font-size: 1rem;
+        margin-left:5rem;
+    }
+
+}
